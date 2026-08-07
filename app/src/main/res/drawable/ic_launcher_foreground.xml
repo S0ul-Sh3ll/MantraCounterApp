@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- mala beads -->
+    <group>
+        <path android:fillColor="#F6E0B0" android:pathData="M50.4,32 a3.6,3.6 0 1,0 7.2,0 a3.6,3.6 0 1,0 -7.2,0" />
+        <path android:fillColor="#F6E0B0" android:pathData="M61.4,34.95 a3.6,3.6 0 1,0 7.2,0 a3.6,3.6 0 1,0 -7.2,0" />
+        <path android:fillColor="#F6E0B0" android:pathData="M69.45,43 a3.6,3.6 0 1,0 7.2,0 a3.6,3.6 0 1,0 -7.2,0" />
+        <path android:fillColor="#F6E0B0" android:pathData="M72.4,54 a3.6,3.6 0 1,0 7.2,0 a3.6,3.6 0 1,0 -7.2,0" />
+        <path android:fillColor="#F6E0B0" android:pathData="M69.45,65 a3.6,3.6 0 1,0 7.2,0 a3.6,3.6 0 1,0 -7.2,0" />
+        <path android:fillColor="#F6E0B0" android:pathData="M61.4,73.05 a3.6,3.6 0 1,0 7.2,0 a3.6,3.6 0 1,0 -7.2,0" />
+        <path android:fillColor="#F6E0B0" android:pathData="M39.4,73.05 a3.6,3.6 0 1,0 7.2,0 a3.6,3.6 0 1,0 -7.2,0" />
+        <path android:fillColor="#F6E0B0" android:pathData="M31.35,65 a3.6,3.6 0 1,0 7.2,0 a3.6,3.6 0 1,0 -7.2,0" />
+        <path android:fillColor="#F6E0B0" android:pathData="M28.4,54 a3.6,3.6 0 1,0 7.2,0 a3.6,3.6 0 1,0 -7.2,0" />
+        <path android:fillColor="#F6E0B0" android:pathData="M31.35,43 a3.6,3.6 0 1,0 7.2,0 a3.6,3.6 0 1,0 -7.2,0" />
+        <path android:fillColor="#F6E0B0" android:pathData="M39.4,34.95 a3.6,3.6 0 1,0 7.2,0 a3.6,3.6 0 1,0 -7.2,0" />
+    </group>
+
+    <!-- guru bead -->
+    <path android:fillColor="#FFC46B" android:pathData="M48.5,78 a5.5,5.5 0 1,0 11,0 a5.5,5.5 0 1,0 -11,0" />
+
+    <!-- inner flame -->
+    <path
+        android:fillColor="#FFC46B"
+        android:pathData="M54,42 C58.5,47 61,50.5 61,54.5 C61,58.6 57.9,61.8 54,61.8 C50.1,61.8 47,58.6 47,54.5 C47,50.5 49.5,47 54,42 Z" />
+</vector>
