@@ -71,3 +71,7 @@ it, whether modified or not, you must release your source under the same licence
 
 The name "Mantra Counter", the icon and the app's artwork are not covered by this licence. Please
 use your own if you publish a fork.
+
+### Screenshots:
+<img width="1800" height="1290" alt="screenshots" src="https://github.com/user-attachments/assets/6c121521-c632-43e1-95bf-d11e54c96920" />
+
